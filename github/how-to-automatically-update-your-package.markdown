@@ -1,0 +1,1 @@
+how to automatically update your package
