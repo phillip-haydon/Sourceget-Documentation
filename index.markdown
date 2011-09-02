@@ -1,6 +1,3 @@
-Index
+##Nugit Documentation
 
-* List item 1
-* List item 2
-* List item 3
-* List item 4
+This is the future location of the [Nugit](http://nugit.org) documentation.
