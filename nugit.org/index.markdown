@@ -1,3 +1,3 @@
 #Nugit
 
-Welcome to NuGet. The next evolution in [NuGet](http://nuget.org)
+Welcome to NuGit. The next evolution in [NuGet](http://nuget.org)
