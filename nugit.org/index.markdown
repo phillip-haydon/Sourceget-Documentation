@@ -13,7 +13,7 @@ packaging an entire library or simple [gists](http://gist.github.com). We realiz
 the features necessary to accomplish this.
 
 ##It's easy
-Just [add a git](/package/create) and you're already done. Package creation is based on your github repo so there's
+Just [add a git](/user/repos) and you're already done. Package creation is based on your github repo so there's
 no settings here you need to address. Titles and descriptions and all the files necessary are based on your repo. 
 [Here](http://github.com/Buildstarted/Nugit-Sample-Project) is a sample repo to get you started.
 
