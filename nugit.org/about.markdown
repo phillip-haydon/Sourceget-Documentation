@@ -6,7 +6,7 @@ It's gone through many revisions as the core functionality was revised and built
 ##Thanks goes to the following
 * [Hugo Bonacci](http://hugoware.net) (Site design)
 * Jake Burke (Initial graphics)
-* [Orni Eini](http://ayende.com/blog) (RavenDB)
+* [Oren Eini](http://ayende.com/blog) (RavenDB)
 * [Paul Betts](http://blog.paulbetts.org/) (Github integation and direction)
 * [Rob Conery](http://wekeroad.com/) (Some ideas and direction)
 * Roy Haddad (Random code)
