@@ -1,10 +1,12 @@
 #Nugit
 
-Welcome to NuGit. The next evolution in [NuGet](http://nuget.org).
+Welcome to Nugit. The next evolution in [NuGet](http://nuget.org).
 
-Add open source to your next project faster via NuGit. 
+Add open source to your next project faster via Nugit. 
 Integration with Github means you always have access to the latest commits. 
 By leveraging NuGet's package management features with our automated pacakge creation, distributing your open source has never been easier!
+
+To view the packages hosted by Nugit just add our [package feed](/help/add-feed) `http://nugit.org/nuget` to your list of Nuget feeds.
 
 ##How easy is it?
 Just [add a repo](/user/repos) and you're done.
@@ -14,7 +16,7 @@ Titles and descriptions and all the files necessary are based on your repo.
 
 ##Community
 Please see our [Google Group](http://groups.google.com/group/nugit/) for any discussions related to the site.
-If you find any bugs or want to provide feedback, please see our [Uservoice](https://nugit.uservoice.com/) site.
+If you find any bugs or want to provide feedback, please see our [Uservoice](https://Nugit.uservoice.com/) site.
 How we can make it better? 
 What features are missing? 
 How can you help? 
