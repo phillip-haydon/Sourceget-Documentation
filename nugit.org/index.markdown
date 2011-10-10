@@ -14,6 +14,7 @@ Titles and descriptions and all the files necessary are based on your repo.
 
 ##Community
 Please see our [Google Group](http://groups.google.com/group/nugit/) for any discussions related to the site.
+If you find any bugs or want to provide feedback, please see our [Uservoice](https://nugit.uservoice.com/) site.
 How we can make it better? 
 What features are missing? 
 How can you help? 
