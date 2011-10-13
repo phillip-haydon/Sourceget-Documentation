@@ -23,15 +23,15 @@ This site will be open-sourced shortly and will be hosted on Github.
 
 
 ##Nuget packages used on this site
-* [DotNetZip](http://dotnetzip.codeplex.com/)   		- DotNetZip is an easy-to-use, FAST, FREE class library and toolset for manipulating zip files or folders. [Nuget](http://nuget.org/List/Packages/DotNetZip)
-* [ELMAH](http://code.google.com/p/elmah/) 			- ELMAH (Error Logging Modules and Handlers) is an application-wide error logging facility that is completely pluggable. [Nuget](http://nuget.org/List/Packages/ELMAH)
-* [Glimpse](http://getglimpse.com/) 				- Glimpse is a web debugging and diagnostics tool used to gain a better understanding of whats happening inside of your ASP.NET 4.0 application. [Nuget](http://nuget.org/List/Packages/Glimpse)
-* [Errlusion](https://github.com/Buildstarted/Errlusion) 	- Easy, non-configuration based, http error handling for Asp.Net MVC 3. [Nuget](http://nuget.org/List/Packages/Errlusion)
-* [Json.NET](http://james.newtonking.com/projects/json-net.aspx) - Json.NET is a popular high-performance JSON framework for .NET. [Nuget](http://nuget.org/List/Packages/Newtonsoft.Json)
-* [MarkdownDeep](http://www.toptensoftware.com/markdowndeep/) 	- MarkdownDeep is a high performance .NET Markdown engine along with a 100% compatible JavaScript implementation for client side use. [Nuget](http://nuget.org/List/Packages/MarkdownDeep.Full)
-* [MiniProfiler](http://code.google.com/p/mvc-mini-profiler/) 	- Lightweight mini-profiler, in particular designed for ASP.NET MVC 3 and ASP.NET sites. [Nuget](http://nuget.org/List/Packages/MiniProfiler)
-* [Ninject](http://www.ninject.org/) 				- Stop writing monolithic applications that make you feel like you have to move mountains to make the simplest of changes. [Nuget](http://nuget.org/List/Packages/Ninject)
-* [NLog](http://nlog-project.org/) 				- NLog is a logging platform for .NET with rich log routing and management capabilities. It can help you produce and manage high-quality logs for your application regardless of its size or complexity. [Nuget](http://nuget.org/List/Packages/NLog)
-* [RavenDB](http://www.ravendb.net/) 				- Raven is a document database for the .NET/Windows platform, offering a flexible data model design to fit the needs of real world systems. [Nuget](http://nuget.org/List/Packages/RavenDB)
-* [RazorGenerator](http://razorgenerator.codeplex.com/) 	- MVC View engine that supports precompiled Razor views. [Nuget](http://nuget.org/List/Packages/RazorGenerator.Mvc)
-* [RouteMagic](http://routemagic.codeplex.com/) 		- RouteMagic is a library of useful Routing helpers. [Nuget](http://nuget.org/List/Packages/RouteMagic)
+* [DotNetZip](http://nuget.org/List/Packages/DotNetZip)    	- DotNetZip is an easy-to-use, FAST, FREE class library and toolset for manipulating zip files or folders. 
+* [ELMAH](http://nuget.org/List/Packages/ELMAH) 			- ELMAH (Error Logging Modules and Handlers) is an application-wide error logging facility that is completely pluggable. 
+* [Glimpse](http://nuget.org/List/Packages/Glimpse) 			- Glimpse is a web debugging and diagnostics tool used to gain a better understanding of whats happening inside of your ASP.NET 4.0 application. 
+* [Errlusion](http://nuget.org/List/Packages/Errlusion) 		- Easy, non-configuration based, http error handling for Asp.Net MVC 3. 
+* [Json.NET](http://nuget.org/List/Packages/Newtonsoft.Json) 		- Json.NET is a popular high-performance JSON framework for .NET. 
+* [MarkdownDeep](http://nuget.org/List/Packages/MarkdownDeep.Full) 	- MarkdownDeep is a high performance .NET Markdown engine along with a 100% compatible JavaScript implementation for client side use. 
+* [MiniProfiler](http://nuget.org/List/Packages/MiniProfiler) 		- Lightweight mini-profiler, in particular designed for ASP.NET MVC 3 and ASP.NET sites. 
+* [Ninject](http://nuget.org/List/Packages/Ninject) 			- Stop writing monolithic applications that make you feel like you have to move mountains to make the simplest of changes. 
+* [NLog](http://nuget.org/List/Packages/NLog) 				- NLog is a logging platform for .NET with rich log routing and management capabilities. It can help you produce and manage high-quality logs for your application regardless of its size or complexity. 
+* [RavenDB](http://nuget.org/List/Packages/RavenDB) 			- Raven is a document database for the .NET/Windows platform, offering a flexible data model design to fit the needs of real world systems. 
+* [RazorGenerator](http://nuget.org/List/Packages/RazorGenerator.Mvc) 	- MVC View engine that supports precompiled Razor views. 
+* [RouteMagic](http://nuget.org/List/Packages/RouteMagic) 		- RouteMagic is a library of useful Routing helpers. 
