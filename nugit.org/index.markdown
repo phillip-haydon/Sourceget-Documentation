@@ -27,5 +27,5 @@ Many new features are in the works.
 This is a public preview to see how to proceed. 
 Let us know what you think. 
 We're slowly working on documentation. 
-You can help by forking our [documentation](https://github.com/Buildstarted/Nugit-Documentation) repo.
+You can help by forking our [documentation](https://github.com/Buildstarted/Sourceget-Documentation) repo.
 We'll be updating the documentation over the next few days.
