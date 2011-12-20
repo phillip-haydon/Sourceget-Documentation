@@ -1,4 +1,4 @@
-#About Nugit
+#About Sourceget
 
 This site was conceived by [Ben Dornis](http://buildstarted.com) as a way to easily create packages from Github repos.
 It's gone through many revisions as the core functionality was revised and built upon through the advice and support of the following.
@@ -15,7 +15,7 @@ It's gone through many revisions as the core functionality was revised and built
 ##Special Thanks
 * [Jon Galloway](http://weblogs.asp.net/jgalloway/) for putting up with me and all my questions.
 Without him and his support this site wouldn't be nearly what it is today. His advice has been invaluable to me.
-* [David Fowler](http://weblogs.asp.net/davidfowler/) and his wonderful [chatapp](http://chatapp.apphb.com). I pestered him non-stop about how Nuget works.
+* [David Fowler](http://weblogs.asp.net/davidfowler/) and his wonderful [JabbR](http://jabbr.net). I pestered him non-stop about how Nuget works.
 
 
 ##Open source
@@ -23,7 +23,7 @@ This site will be open-sourced shortly and will be hosted on Github.
 
 
 ##Nuget packages used on this site
-* [DotNetZip](http://nuget.org/List/Packages/DotNetZip)    	- DotNetZip is an easy-to-use, FAST, FREE class library and toolset for manipulating zip files or folders. 
+* [DotNetZip](http://nuget.org/List/Packages/DotNetZip)      - DotNetZip is an easy-to-use, FAST, FREE class library and toolset for manipulating zip files or folders. 
 * [ELMAH](http://nuget.org/List/Packages/ELMAH) 			- ELMAH (Error Logging Modules and Handlers) is an application-wide error logging facility that is completely pluggable. 
 * [Glimpse](http://nuget.org/List/Packages/Glimpse) 			- Glimpse is a web debugging and diagnostics tool used to gain a better understanding of whats happening inside of your ASP.NET 4.0 application. 
 * [Errlusion](http://nuget.org/List/Packages/Errlusion) 		- Easy, non-configuration based, http error handling for Asp.Net MVC 3. 
