@@ -1,4 +1,4 @@
-#SourceGet
+#SourceGet (beta)
 
 Welcome to SourceGet. An evolution of [NuGet](http://nuget.org).
 
