@@ -10,6 +10,7 @@ It's gone through many revisions as the core functionality was revised and built
 * [Paul Betts](http://blog.paulbetts.org/) (Github integation and direction)
 * [Rob Conery](http://wekeroad.com/) (Some ideas and direction)
 * Roy Haddad (Random code)
+* [Phillip Haydon](http://philliphaydon.com/) (Site name)
 
 
 ##Special Thanks
